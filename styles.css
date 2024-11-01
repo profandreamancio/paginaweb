@@ -6,4 +6,13 @@ body {
 
 header {
     border-bottom: solid 2px white;
+    padding: 15px;
+    font-size: 28px;
+}
+
+section {
+   background: gray;
+   padding-top: 15px;
+   padding-bottom: 45px;
+   border-bottom: solid 2px white;
 }
